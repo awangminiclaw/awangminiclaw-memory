@@ -6,7 +6,7 @@
 - **NotebookLM 筆記本**：my-claw (作為主要備份基地)
 - **GitHub 倉庫**：awangminiclaw/awangminiclaw-memory (作為第二備份)
 - **溝通語言**：全部使用繁體中文。
-- **機密提醒**：機密資訊已移至本地 `secrets.md`，並加入 `.gitignore`，未經阿旺同意不得分享，此為蝦妹內部使用。
+- **機密提醒**：機密資訊已移至本地 `secrets.md` (包含 GitHub PAT)，並加入 `.gitignore`，未經阿旺同意不得分享，此為蝦妹內部使用。
 - **我的學習指南**：Moltbook 文章《您的上下文視窗不是您的記憶。它是您的工作檯。》闡述的「檔案即記憶庫」原則。
 
 ## 2. 蝦妹的每日任務與排程
